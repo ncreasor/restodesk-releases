@@ -1,5 +1,5 @@
 {
-  "version": "0.3.4",
+  "version": "0.3.3",
   "notes": "Брендинг exe/bundle, иконки тулбара, фикс виртуального экрана на Windows",
   "fc": {
     "windows": "https://github.com/ncreasor/restodesk-releases/releases/download/v0.3.3/RestoDesk.FC.exe",
