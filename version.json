@@ -1,12 +1,12 @@
 {
-  "version": "0.3.6",
-  "notes": "Баннер обновления больше не показывается в компактном окне FC (не помещался, окно не подгонялось). Только Windows-сборки в этом релизе.",
+  "version": "0.3.7",
+  "notes": "Неактивная вкладка (Настройки/Главная) в светлой теме теперь серая вместо белой (было плохо видно на светлом фоне). В тёмной теме осталась белая.",
   "fc": {
-    "windows": "https://github.com/ncreasor/restodesk-releases/releases/download/v0.3.6/RestoDesk.FC.exe",
+    "windows": "https://github.com/ncreasor/restodesk-releases/releases/download/v0.3.7/RestoDesk.FC.exe",
     "macos": "https://github.com/ncreasor/restodesk-releases/releases/download/v0.3.5/RestoDesk.FC.dmg"
   },
   "fts": {
-    "windows": "https://github.com/ncreasor/restodesk-releases/releases/download/v0.3.6/RestoDesk.FTS.exe",
+    "windows": "https://github.com/ncreasor/restodesk-releases/releases/download/v0.3.7/RestoDesk.FTS.exe",
     "macos": "https://github.com/ncreasor/restodesk-releases/releases/download/v0.3.5/RestoDesk.FTS.dmg"
   }
 }
