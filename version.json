@@ -1,12 +1,12 @@
 {
-  "version": "0.3.3",
-  "notes": "Брендинг exe/bundle, иконки тулбара, фикс виртуального экрана на Windows",
+  "version": "0.3.4",
+  "notes": "Убрана автозамена exe в один клик (ловилась антивирусами как троян) — теперь ссылка на скачивание",
   "fc": {
-    "windows": "https://github.com/ncreasor/restodesk-releases/releases/download/v0.3.3/RestoDesk.FC.exe",
-    "macos": "https://github.com/ncreasor/restodesk-releases/releases/download/v0.3.3/RestoDesk.FC.dmg"
+    "windows": "https://github.com/ncreasor/restodesk-releases/releases/download/v0.3.4/RestoDesk.FC.exe",
+    "macos": "https://github.com/ncreasor/restodesk-releases/releases/download/v0.3.4/RestoDesk.FC.dmg"
   },
   "fts": {
-    "windows": "https://github.com/ncreasor/restodesk-releases/releases/download/v0.3.3/RestoDesk.FTS.exe",
-    "macos": "https://github.com/ncreasor/restodesk-releases/releases/download/v0.3.3/RestoDesk.FTS.dmg"
+    "windows": "https://github.com/ncreasor/restodesk-releases/releases/download/v0.3.4/RestoDesk.FTS.exe",
+    "macos": "https://github.com/ncreasor/restodesk-releases/releases/download/v0.3.4/RestoDesk.FTS.dmg"
   }
 }
