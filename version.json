@@ -1,12 +1,12 @@
 {
-  "version": "0.3.4",
-  "notes": "Убрана автозамена exe в один клик (ловилась антивирусами как троян) — теперь ссылка на скачивание",
+  "version": "0.3.5",
+  "notes": "Убрана из бинарника способность скачивать и запускать exe с правами администратора (не только кнопка в интерфейсе) — фикс ложного срабатывания антивируса",
   "fc": {
-    "windows": "https://github.com/ncreasor/restodesk-releases/releases/download/v0.3.4/RestoDesk.FC.exe",
-    "macos": "https://github.com/ncreasor/restodesk-releases/releases/download/v0.3.4/RestoDesk.FC.dmg"
+    "windows": "https://github.com/ncreasor/restodesk-releases/releases/download/v0.3.5/RestoDesk.FC.exe",
+    "macos": "https://github.com/ncreasor/restodesk-releases/releases/download/v0.3.5/RestoDesk.FC.dmg"
   },
   "fts": {
-    "windows": "https://github.com/ncreasor/restodesk-releases/releases/download/v0.3.4/RestoDesk.FTS.exe",
-    "macos": "https://github.com/ncreasor/restodesk-releases/releases/download/v0.3.4/RestoDesk.FTS.dmg"
+    "windows": "https://github.com/ncreasor/restodesk-releases/releases/download/v0.3.5/RestoDesk.FTS.exe",
+    "macos": "https://github.com/ncreasor/restodesk-releases/releases/download/v0.3.5/RestoDesk.FTS.dmg"
   }
 }
